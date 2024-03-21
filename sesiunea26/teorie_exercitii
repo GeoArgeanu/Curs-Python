@@ -1,0 +1,79 @@
+1. Ce înseamnă acronimul OOP în programare?
+
+   a. Original Object Programming
+##  b. Object-Oriented Programming
+   c. Object-Oriented Python
+   d. Oriented Object Processing
+
+2. Ce este un obiect în Python?
+
+   a. O funcție
+ ##  b. O instanță a unei clase
+   c. Un tip de date primitiv
+   d. Un modul extern
+
+3. Ce reprezintă "self" în metodele unei clase în Python?
+
+  ## a. Referința la instanța curentă a clasei
+   b. Un cuvânt rezervat pentru definirea claselor
+   c. Un argument opțional în orice metodă
+   d. Un sinonim pentru "super"
+
+4. Ce este moștenirea în contextul programării orientate pe
+obiect în Python?
+
+   a. Capacitatea de a accesa metode private ale unei clase
+   părinte
+ ##  b. Transmiterea caracteristicilor și comportamentului
+   de la o clasă părinte la o clasă copil
+   c. O metodă specială pentru crearea obiectelor
+   d. Un decorator pentru metodele clasei
+
+5. Ce este un constructor în Python?
+
+   a. O funcție care distruge un obiect
+   b. O metodă care întoarce valoarea unui atribut al unui
+   obiect
+ ##  c. O metodă specială pentru inițializarea obiectelor
+   d. Un decorator pentru metode
+
+6. Ce face instrucțiunea `super()` în Python?
+
+   a. Referință la clasa curentă
+ ##  b. Accesează metodele clasei părinte
+   c. Creează o instanță a clasei curente
+   d. Schimbă comportamentul operatorului `or`
+
+7. Cum se creează o instanță a unei clase în Python?
+
+ ##  a. Apelând numele clasei ca și cum ar fi o funcție
+   b. Folosind funcția `create_instance()`
+   c. Utilizând cuvântul cheie `instance_of`
+   d. Prin intermediul metodei `new_instance()` a clasei
+
+8. Care este scopul metodei `__str__` în Python?
+
+   a. Transformă un obiect în șir de caractere
+ ##  b. Returnează un șir formatat de caractere pentru afișare
+   c. Verifică dacă două obiecte sunt identice
+   d. Este un sinonim pentru metoda `__init__`
+
+   9. Ce reprezintă conceptul de încapsulare în OOP?
+
+   a. Ascunderea detaliilor interne ale unei clase și
+   expunerea unei interfețe clare
+ ##  b. Crearea unor obiecte complexe prin combinarea a mai
+   multor obiecte simple
+   c. Transmiterea caracteristicilor de la o clasă părinte
+   la o clasă copil
+   d. O tehnică de programare funcțională
+
+10. Ce este polimorfismul în Python?
+
+    a. Posibilitatea unei clase de a avea mai mult de un
+    constructor
+    b. O tehnică de gestionare a excepțiilor
+    c. Utilizarea mai multor fire de execuție pentru a
+    accelera programul
+ ##   d. Capacitatea unui obiect de a lua mai multe forme,
+    adică de a fi tratat ca un obiect de mai multe tipuri

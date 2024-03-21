@@ -1,0 +1,11 @@
+python --version → afișează versiunea de Python
+pip → pachet care ne oferă posibilitatea de a instala librării externe
+pip help → arată toate comenzile disponibile
+pip install <nume_pachet> → instalează pachetul cu numele specificat (ultima versiune)
+pip uninstall <nume_pachet> → dezinstalează pachetul cu numele specificat
+pip freeze → afișează toate pachetele instalate și versiunile lor (din env-ul curent)
+pip freeze > requirements.txt → salvează lista returnată de pip freeze într-un fișier cu numele requirements.txt
+pip list -o → afișează doar pachetele pentru care există o versiune mai nouă decât cea deja instalată
+pip install -U <nume_pachet> → dacă pachetul este instalat deja, instalează ultima versiune
+pip install <nume_pachet>==versiune → instalează pachetul specificat cu versiunea specificată
+pip install -r requirements.txt → instalează pachetele din fișierul requirements.txt cu versiunile specificate acolo

@@ -1,0 +1,5 @@
+pip install virtualenv -> instalare librarie pentru environment virtuale
+python -m venv ./myenv -> creare environment virtual
+./myenv/bin/activate -> activare environment virtual (MACOS/Linux)
+myenv\Scripts\Activate.ps1 -> activare environment virtual (Windows)
+deactivate -> dezactivare environment virtual
